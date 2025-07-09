@@ -1,3 +1,10 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink; /docs/softwareEng2025
+---
+
+
 # ソフトウェア工学まとめ
 これまで学んだソフトウェア工学の内容（第1回～6回）をまとめる．
 
